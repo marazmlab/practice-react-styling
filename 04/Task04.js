@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { Row, Col, Tabs as RBTabs, Tab as RBTab, } from 'react-bootstrap';
+import Tabs from './../src/components/Tabs';
 
 const Task04 = () => {
     return (
@@ -19,7 +20,17 @@ const Task04 = () => {
                 </RBTabs>
             </Col>
             <Col>
-                Tabs!
+                <Tabs defaultActivekey='profile'>
+                    <Tabs.Tab eventKey='home' title='Home'>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum lacus nec ligula faucibus rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+                    </Tabs.Tab>
+                    <Tabs.Tab eventKey="profile" title="Profile">
+                        <p>Donec dignissim ultricies felis, eu dictum eros congue in. In gravida lobortis libero nec tempus. Cras rutrum nisl ut leo volutpat rhoncus. Nulla massa nulla, viverra hendrerit laoreet at, tincidunt eu lacus.</p>
+                    </Tabs.Tab>
+                    <Tabs.Tab eventKey="contact" title="Contact" disabled>
+                        <p>CLOOFasedbywefcvygwefdyuwe wefgh7wefuigwerfpghewrfwegurwefergf ergerdgbretg.</p>
+                    </Tabs.Tab>
+                </Tabs>
             </Col>
         </Row>
     )
