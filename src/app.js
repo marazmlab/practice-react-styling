@@ -7,8 +7,10 @@ import App from './components/App';
 
 const theme = {
   colors: {
-    primary: '#cce5ff',
-    secondary: '#343a40',
+    primary: '#007bff',
+    secondary: '#6c757d',
+    success: '#28a745',
+    danger: '#dc3545',
   }
 }
 
