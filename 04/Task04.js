@@ -28,7 +28,7 @@ const Task04 = () => {
                         <p>Donec dignissim ultricies felis, eu dictum eros congue in. In gravida lobortis libero nec tempus. Cras rutrum nisl ut leo volutpat rhoncus. Nulla massa nulla, viverra hendrerit laoreet at, tincidunt eu lacus.</p>
                     </Tabs.Tab>
                     <Tabs.Tab eventKey="contact" title="Contact" disabled>
-                        <p>CLOOFasedbywefcvygwefdyuwe wefgh7wefuigwerfpghewrfwegurwefergf ergerdgbretg.</p>
+                        <p>Vivamus metus nulla, fermentum eget placerat vitae, mollis interdum elit. Pellentesque arcu augue, vulputate ut porttitor ut, suscipit non orci. Integer justo odio, suscipit eget tortor nec, molestie lobortis eros. Nullam commodo elit sit amet lacus blandit aliquet. Mauris at nibh eget nisl pulvinar dignissim</p>
                     </Tabs.Tab>
                 </Tabs>
             </Col>
