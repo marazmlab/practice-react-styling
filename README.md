@@ -2,7 +2,7 @@
 
 #  React Component Styling Practice
 
-This repository is dedicated to practicing and mastering various styling methods for React components.
+This repository is dedicated to practicing and mastering Styled Components in React.
 
 **Main features**:
 - Learn and implement Styled Components
