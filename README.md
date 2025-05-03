@@ -11,9 +11,8 @@ This repository is dedicated to practicing and mastering various styling methods
 
 &nbsp;
 
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow:  5px 5px  #f26e37;">
-
 ## 🔶 Technologies
+
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/css--modules-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,17 +20,14 @@ This repository is dedicated to practicing and mastering various styling methods
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)
 
-</div>
+&nbsp;
 
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow: 5px 5px  #f26e37;">
 
 ## 🔶 See also
 
 Are you interested in **React** and **styling techniques**? See my other [project](https://github.com/marazmlab/task-react-styling).
 
-</div>
-
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow: 5px 5px  #f26e37;">
+&nbsp;
 
 ## 🔶 Installation
 
@@ -59,9 +55,7 @@ The project uses [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.c
 
 The application will be available at `http://localhost:3000`.
 
-</div>
-
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow: 5px 5px  #f26e37;">
+&nbsp;
 
 ## 🔶 Tasks Overview
 
@@ -75,9 +69,7 @@ The project contains several tasks organized in folders `01` to `05`, each demon
 
 Each task includes specific instructions in its respective `README.md` file.
 
-</div>
-
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow: 5px 5px  #f26e37;">
+&nbsp;
 
 ## 🔶 Solutions provided in the project
 
@@ -129,9 +121,8 @@ A `<Card>` component was built with subcomponents like `<Card.Img>`, `<Card.Body
   </Card.Body>
 </Card>
 ```
-</div>
 
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow: 5px 5px  #f26e37;">
+&nbsp;
 
 ## 🔶 Conclusions
 
@@ -142,22 +133,18 @@ A `<Card>` component was built with subcomponents like `<Card.Img>`, `<Card.Body
 
 This project provides a solid foundation for mastering React component styling techniques.
 
-</div>
-
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow: 5px 5px  #f26e37;">
+&nbsp;
 
 ## 🔶 Feel free to contact me
 
 If you have any questions or feedback, feel free to reach out!  
 Find me on [GitHub](https://github.com/marazmlab) or [LinkedIn](https://www.linkedin.com/in/belz/).
 
-</div>
-
-<div style="border: 1px solid #f26e37; padding: 16px; margin-bottom: 30px; border-radius: 8px; box-shadow: 5px 5px  #f26e37;">
+&nbsp;
 
 ## 🔶 Thanks / Special thanks / Credits
 
 Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me with this task and for code review.
 
-</div>
+
 
