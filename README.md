@@ -2,12 +2,11 @@
 
 #  React Component Styling Practice
 
-This repository is dedicated to practicing and mastering various styling methods for React components. It focuses on popular techniques like **Styled Components**, **CSS Modules**, **SASS/SCSS**, and traditional **CSS**, highlighting their uses and differences.
+This repository is dedicated to practicing and mastering various styling methods for React components.
 
 **Main features**:
-- Learn and implement multiple React styling techniques
-- Compare pros and cons of each styling method
-- Gain practical experience in organizing styles for scalable applications
+- Learn and implement Styled Components
+- Gain practical experience in organizing styles for scalable applications.
 
 &nbsp;
 
