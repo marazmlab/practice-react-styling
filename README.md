@@ -73,54 +73,26 @@ Each task includes specific instructions in its respective `README.md` file.
 
 ## 🔶 Solutions provided in the project
 
-### Task 01: Alert Component
-Styled Components were used to create a dynamic `<Alert>` component. Example:
-
-```jsx
-<Alert variant="primary">This is a primary alert!</Alert>
-```
-
-### Task 02: Button Component
-A reusable `<Button>` component was implemented with support for `variant`, `size`, `active`, and `disabled` props. Example:
-
-```jsx
-<Button variant="primary" size="lg">Click Me</Button>
-```
-
-### Task 03: Breadcrumb Component
-A `<Breadcrumb>` component was created with `<Breadcrumb.Item>` for navigation. Example:
-
-```jsx
-<Breadcrumb>
-  <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
-  <Breadcrumb.Item href="#">Library</Breadcrumb.Item>
-  <Breadcrumb.Item active>Data</Breadcrumb.Item>
-</Breadcrumb>
-```
-
-### Task 04: Tabs Component
-A `<Tabs>` component with `<Tab>` subcomponents was implemented to manage tabbed content dynamically. Example:
-
-```jsx
-<Tabs defaultActivekey="home">
-  <Tabs.Tab eventKey="home" title="Home">Home Content</Tabs.Tab>
-  <Tabs.Tab eventKey="profile" title="Profile">Profile Content</Tabs.Tab>
-</Tabs>
-```
-
-### Task 05: Card Component
-A `<Card>` component was built with subcomponents like `<Card.Img>`, `<Card.Body>`, `<Card.Title>`, and `<Card.Text>`. Example:
+### One of example:
+The `<Card>` component is a complex and reusable component built with subcomponents like `<Card.Img>`, `<Card.Body>`, `<Card.Title>`, and `<Card.Text>`. It demonstrates advanced component composition and integration with the previously created `<Button>` component.
 
 ```jsx
 <Card>
   <Card.Img src="image.jpg" alt="Example" />
   <Card.Body>
     <Card.Title>Card Title</Card.Title>
-    <Card.Text>Some example text.</Card.Text>
+    <Card.Text>Some example text to build on the card title and make up the bulk of the card's content.</Card.Text>
     <Button variant="primary">Go somewhere</Button>
   </Card.Body>
 </Card>
 ```
+
+This example showcases:
+- **Dynamic styling**: Styled Components are used to style the card and its subcomponents.
+- **Component composition**: The `<Card>` component is composed of smaller, reusable subcomponents.
+- **Integration**: The `<Button>` component created in Task 02 is reused within the `<Card>` component.
+
+For more details, refer to the implementation in [Task05.js](05/Task05.js) and the corresponding [README.md](05/README.md).
 
 &nbsp;
 
