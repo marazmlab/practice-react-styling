@@ -72,7 +72,7 @@ Each task includes specific instructions in its respective `README.md` file.
 
 ## 🔶 Solutions provided in the project
 
-### One of example:
+### One of examples:
 The `<Card>` component is a complex and reusable component built with subcomponents like `<Card.Img>`, `<Card.Body>`, `<Card.Title>`, and `<Card.Text>`. It demonstrates advanced component composition and integration with the previously created `<Button>` component.
 
 ```jsx
